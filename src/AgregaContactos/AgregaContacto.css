@@ -1,0 +1,43 @@
+
+    
+
+
+.fondo{
+    background-color: rgba(31,31,31, 0.7);
+    top: 0%;
+    right: 0%;
+    left: 0%;
+    bottom: 0%;
+    display: flex;
+    position: fixed;
+    visibility: visible;
+    justify-content: center;
+    
+    
+}
+.fondo2{
+    background-color: aqua;
+    text-align: center;
+    height: 350px;
+    margin-top: 200px;
+    width: 300px;
+
+    
+    
+}
+.guardar{
+    width: 100px;
+    height: 30px;
+    border-radius: 18px;
+    border: none;
+    background-color: rgb(47, 137, 31);
+   
+}
+.canselar{
+    width: 100px;
+    height: 30px;
+    border-radius: 18px;
+    border: none;
+    background-color: brown;
+  
+}
